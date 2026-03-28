@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there !!
 
 # Shubhangi Singh
 
@@ -98,5 +98,5 @@ I prioritize correctness, clarity, and maintainable design over quick hacks.
 
 - GitHub: https://github.com/shubhangiisinghh  
 - LinkedIn: https://linkedin.com/in/shubhangi-singh-08ba85281
-- Email: shubhangiisinghh@email.com
+- Email: singhhshubhangii@email.com
 
