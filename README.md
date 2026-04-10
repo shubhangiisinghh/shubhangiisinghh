@@ -57,33 +57,33 @@ Computer Science undergraduate specialising in Cybersecurity at Bennett Universi
 ## Technical Skills
 
 ### LANGUAGES
-- **Java** —  OOP, Spring, Maven, servlet filters, JUnit
-- **TypeScript/JavaScript** — React, microfrontend architecture
-- **Python** — scripting and automation
-- **C / C++** — DSA and systems works
+- **Java** - OOP, Spring, Maven, servlet filters, JUnit
+- **TypeScript/JavaScript** - React, microfrontend architecture
+- **Python** - scripting and automation
+- **C / C++** - DSA and systems works
 
 ### Backend
-- Java/Spring — module development, servlet filters, REST APIs
-- Maven — multi-module project builds, dependency management
-- Module architecture — WebAuthenticationScheme, filter chains, session management
+- Java/Spring - module development, servlet filters, REST APIs
+- Maven - multi-module project builds, dependency management
+- Module architecture - WebAuthenticationScheme, filter chains, session management
 
 ### Frontend
-- React,TypeScript — component development, hooks
-- O3 Technology— microfrontend architecture
+- React,TypeScript - component development, hooks
+- O3 Technology - microfrontend architecture
 - HTML, CSS, JavaScript
 
 ### Security
-- Cybersecurity — secure coding, authentication flows, 2FA/TOTP
-- Session management — session fixation prevention, token-based auth
-- Java security — Security.decrypt, TOTP verification, filter-based auth
+- Cybersecurity - secure coding, authentication flows, 2FA/TOTP
+- Session management - session fixation prevention, token-based auth
+- Java security - Security.decrypt, TOTP verification, filter-based auth
 
 ### Databases & DBMS
-- MySQL — schema design, queries, normalization
-- MongoDB Atlas — NoSQL, cloud-hosted databases
-- Core DBMS — indexing, transactions, ACID properties
+- MySQL - schema design, queries, normalization
+- MongoDB Atlas - NoSQL, cloud-hosted databases
+- Core DBMS - indexing, transactions, ACID properties
 
 ### Systems
-- Operating Systems — processes, scheduling, system calls, fork()
+- Operating Systems - processes, scheduling, system calls, fork()
 - Digital Logic Design
 - MIPS assembly
 
@@ -91,13 +91,13 @@ Computer Science undergraduate specialising in Cybersecurity at Bennett Universi
 
 ## Selected Work
 
-- **VaultAuth** — Java
+- **VaultAuth** - Java
 Authentication system project exploring secure credential management.
 
-- **HIDS Project** — Python
+- **HIDS Project** - Python
 Host-based intrusion detection system exploring security monitoring concepts.
 
-- **Java Algorithm Benchmark** — Java
+- **Java Algorithm Benchmark** - Java
 Benchmarking suite for DSA implementations with emphasis on correctness and efficiency.
 
 - **SKILL_TO_INCOME**
