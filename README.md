@@ -2,8 +2,7 @@
 
 # Shubhangi Singh
 
-Computer Science undergraduate focused on **software engineering fundamentals, problem-solving, and systems-oriented development**.  
-I prioritize correctness, clarity, and maintainable design over quick hacks.
+Computer Science undergraduate specialising in Cybersecurity at Bennett University, India. I focus on building software that is correct, maintainable, and actually useful.
 
 ---
 
@@ -46,45 +45,52 @@ I prioritize correctness, clarity, and maintainable design over quick hacks.
 
 ## Technical Skills
 
-### Programming & Development
-- **Java** — OOP, Exception Handling, File I/O, Swing
-- **Python** — scripting and core programming
-- **C / C++** — DSA and systems fundamentals
-- **JavaScript** — application logic
+### LANGUAGES
+- **Java** —  OOP, Spring, Maven, servlet filters, JUnit
+- **TypeScript/JavaScript** — React, microfrontend architecture
+- **Python** — scripting and automation
+- **C / C++** — DSA and systems works
 
-### Web & Backend
+### Backend
+- Java/Spring — module development, servlet filters, REST APIs
+- Maven — multi-module project builds, dependency management
+- Module architecture — WebAuthenticationScheme, filter chains, session management
+
+### Frontend
+- React,TypeScript — component development, hooks
+- O3 Technology— microfrontend architecture
 - HTML, CSS, JavaScript
-- React (in progress)
-- Maven-based Java projects
-- Backend fundamentals and modular design (O3 concepts)
+
+### Security
+- Cybersecurity — secure coding, authentication flows, 2FA/TOTP
+- Session management — session fixation prevention, token-based auth
+- Java security — Security.decrypt, TOTP verification, filter-based auth
 
 ### Databases & DBMS
 - MySQL — schema design, queries, normalization
-- MongoDB Atlas — NoSQL fundamentals and cloud-hosted databases
-- Core DBMS concepts — indexing, transactions, ACID properties
+- MongoDB Atlas — NoSQL, cloud-hosted databases
+- Core DBMS — indexing, transactions, ACID properties
 
-### Systems & Security
-- Operating Systems — processes, scheduling, system calls
+### Systems
+- Operating Systems — processes, scheduling, system calls, fork()
 - Digital Logic Design
-- Cybersecurity fundamentals — basic security principles and secure coding practices
+- MIPS assembly
 
 ---
 
 ## Selected Work
 
-- **Data Structures & Algorithms**  
-  Clean, well-documented solutions with emphasis on correctness and efficiency.
+- **VaultAuth** — Java
+Authentication system project exploring secure credential management.
 
-- **Java Swing Applications**  
-  Desktop applications demonstrating object-oriented and event-driven design.
+- **HIDS Project** — Python
+Host-based intrusion detection system exploring security monitoring concepts.
 
-- **Systems & Low-Level Programs**  
-  OS concepts, process control using fork(), and MIPS assembly programs.
+- **Java Algorithm Benchmark** — Java
+Benchmarking suite for DSA implementations with emphasis on correctness and efficiency.
 
-- **O3 – Service Queues Enhancement**  
-  Backend-focused improvements with clear documentation and modular design changes.
-
----
+- **SKILL_TO_INCOME**
+Data/analysis project exploring skill-to-income mapping.
 
 ## Current Direction
 
